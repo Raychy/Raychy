@@ -21,7 +21,7 @@ I'm a passionate **Frontend Developer** with 4+ years of experience building del
 | Nirvana Initiative | Nonprofit youth health org | React | [Live ↗](https://www.nirvanainitiative.org) |
 | Arike Alaso | Fashion e-commerce platform | Vue | [Live ↗](https://www.arikealaso.com) |
 
-👉 [See Full Project List ›](https://your-portfolio-domain.com/#projects)
+👉 [See Full Project List ›](https://racheal-adeyemi.vercel.app#projects)
 
 ---
 
