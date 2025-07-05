@@ -1,28 +1,45 @@
-## Hey 👋, I'm  Racheal Adeyemi
-[![Gmail Badge](https://img.shields.io/badge/-rachealadeyemi.net@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachealadeyemi.net@gmail.com)](mailto:rachealadeyemi.net@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Cyberbizkit-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Cyberbizkit/)](https://www.linkedin.com/in/Cyberbizkit/) [![Github Badge](https://img.shields.io/badge/-Raychy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Raychy/)](https://www.github.com/Raychy/)
-[![Twitter Badge](https://img.shields.io/badge/-Cyberbizkit-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Cyberbizkit/)](https://www.twitter.com/Cyberbizkit/)  
+# 👋 Hi, I'm Racheal Adeyemi
 
-<p>A highly skilled front-end developer with over 5 years of experience creating scalable, responsive, and user-friendly web and mobile applications. Expertise in Vue.js, Nuxt.js, Flutter, and modern frontend technologies, combined with a strong understanding of design principles, API integration, and state management. I am passionate about developing innovative solutions and collaborating within agile environments to deliver exceptional user experiences. I am dedicated to continuous learning and staying up to date with the latest technology trends.</p>
+I'm a passionate **Frontend Developer** with 4+ years of experience building delightful, accessible, and performant interfaces using:
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Raychy alt=Raychy /> </p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue-42B883?style=flat&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Raychy&show_icons=true&include_all_commits=true)](https://github.com/Raychy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychy&layout=compact)](https://github.com/Raychy/github-readme-stats)
+---
 
-#### TECHNICAL SKILLS
-<p align=left>Frontend: HTML5, CSS3, JavaScript, Vue.js, Nuxt.js, React.js, Tailwind CSS, Bootstrap, Sass, Vuetify, Flutter (Mobile), Storybook</p>
-<p align=left>Backend: Node.js, Nest.js</p>
-<p align=left>State Management: Pinia, TanStack Query, Vuex</p>
-<p align=left>Build Tools: Vite, Webpack</p>
-<p align=left>APIs: RESTful APIs, GraphQL</p>
-<p align=left>Testing: Jest, Cypress, Unit Testing, E2E Testing</p>
-<p align=left>Databases: MySQL, MongoDB</p>
-<p align=left>Version Control: Git, GitHub, GitLab</p>
-<p align=left>Others: CI/CD Pipelines, Responsive Design, Accessibility Standards (WCAG), Figma</p>
+## 💼 Featured Projects
 
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| POS Inventory System | Sales & inventory management | Next.js, Tailwind | [Live ↗](https://pos-inventory-green.vercel.app) |
+| Zealara Training | Internal dev training form | React | [Live ↗](https://zealarax-training-registration-form.vercel.app) |
+| Regional Trade Institute | Official education platform | React | [Live ↗](https://www.regionaltradeinstitute.com) |
+| NCECC Trade Platform | Commerce & exhibition portal | React | [Live ↗](https://ncecctrade.com) |
+| Nirvana Initiative | Nonprofit youth health org | React | [Live ↗](https://www.nirvanainitiative.org) |
+| Arike Alaso | Fashion e-commerce platform | Vue | [Live ↗](https://www.arikealaso.com) |
 
+👉 [See Full Project List ›](https://your-portfolio-domain.com/#projects)
 
+---
 
+## 📈 GitHub Stats
 
+![Raychy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raychy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychy&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyberbizkit)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raychy)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rachealadeyemi.net@gmail.com)
+
+---
+
+🖥️ **Portfolio:** [https://your-deployed-site.com](https://your-deployed-site.com)
+
+🌍 Built with 💙 using React, Vue, Tailwind, and Next.js
