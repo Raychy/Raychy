@@ -19,7 +19,7 @@ I'm a passionate **Frontend Developer** with 4+ years of experience building del
 | Regional Trade Institute | Official education platform | React | Next JS | [Live ↗](https://www.regionaltradeinstitute.com) |
 | NCECC Trade Platform | Commerce & exhibition portal | React | Next JS | [Live ↗](https://ncecctrade.com) |
 | Nirvana Initiative | Nonprofit youth health org | React | Next JS | [Live ↗](https://www.nirvanainitiative.org) |
-| Arike Alaso | Fashion e-commerce platform | Vue | Nuxt | [Live ↗](https://www.arikealaso.com) |
+| Arike Alaso | Fashion e-commerce platform | Vue | Nuxt JS | [Live ↗](https://www.arikealaso.com) |
 
 👉 [See Full Project List ›](https://racheal-adeyemi.vercel.app#projects)
 
