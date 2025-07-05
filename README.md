@@ -40,6 +40,6 @@ I'm a passionate **Frontend Developer** with 4+ years of experience building del
 
 ---
 
-🖥️ **Portfolio:** [https://your-deployed-site.com](https://your-deployed-site.com)
+🖥️ **Portfolio:** [https://racheal-adeyemi.vercel.app](https://racheal-adeyemi.vercel.app)
 
-🌍 Built with 💙 using React, Vue, Tailwind, and Next.js
+🌍 Built with 💙 using React, Tailwind, and Next.js
