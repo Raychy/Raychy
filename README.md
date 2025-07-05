@@ -14,12 +14,12 @@ I'm a passionate **Frontend Developer** with 4+ years of experience building del
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| POS Inventory System | Sales & inventory management | Next.js, Tailwind | [Live ↗](https://pos-inventory-green.vercel.app) |
-| Zealara Training | Internal dev training form | React | [Live ↗](https://zealarax-training-registration-form.vercel.app) |
-| Regional Trade Institute | Official education platform | React | [Live ↗](https://www.regionaltradeinstitute.com) |
-| NCECC Trade Platform | Commerce & exhibition portal | React | [Live ↗](https://ncecctrade.com) |
-| Nirvana Initiative | Nonprofit youth health org | React | [Live ↗](https://www.nirvanainitiative.org) |
-| Arike Alaso | Fashion e-commerce platform | Vue | [Live ↗](https://www.arikealaso.com) |
+| POS Inventory System | Sales & inventory management | Next JS, Tailwind | [Live ↗](https://pos-inventory-green.vercel.app) |
+| Zealara Training | Internal dev training form | Javascript | [Live ↗](https://zealarax-training-registration-form.vercel.app) |
+| Regional Trade Institute | Official education platform | React | Next JS | [Live ↗](https://www.regionaltradeinstitute.com) |
+| NCECC Trade Platform | Commerce & exhibition portal | React | Next JS | [Live ↗](https://ncecctrade.com) |
+| Nirvana Initiative | Nonprofit youth health org | React | Next JS | [Live ↗](https://www.nirvanainitiative.org) |
+| Arike Alaso | Fashion e-commerce platform | Vue | Nuxt | [Live ↗](https://www.arikealaso.com) |
 
 👉 [See Full Project List ›](https://racheal-adeyemi.vercel.app#projects)
 
