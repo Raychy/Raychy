@@ -42,4 +42,4 @@ I'm a passionate **Senior Frontend Developer** with 5+ years of experience build
 
 🖥️ **Portfolio:** [https://racheal-adeyemi.vercel.app](https://racheal-adeyemi.vercel.app)
 
-🌍 Built with 💙 using React, Tailwind, and Next.js
+
