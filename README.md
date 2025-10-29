@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Racheal Adeyemi
 
-I'm a passionate **Frontend Developer** with 4+ years of experience building delightful, accessible, and performant interfaces using:
+I'm a passionate **Senior Frontend Developer** with 5+ years of experience building delightful, accessible, and performant interfaces using:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/-Vue-42B883?style=flat&logo=vue.js&logoColor=white)
